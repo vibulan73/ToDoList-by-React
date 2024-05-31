@@ -1,6 +1,7 @@
 import React from 'react'
 
 const Header = () => {
+  //const headerStyle = {backgroundColor: 'black', color: 'white'}
   return (
     <header>
         <h1>
